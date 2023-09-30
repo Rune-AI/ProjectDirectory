@@ -20,5 +20,27 @@
     "platform": "PC",
     "engine": "Unity",
     "description": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!"
- }
+ },
+ {
+   "title": "Soggy Story",
+   "featured": true,
+   "genre": "Game",
+   "date": "2019-01-01",
+   "role": "Lead",
+   "team": "solo",
+   "platform": "PC",
+   "engine": "Unity",
+   "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."
+},
+{
+   "title": "Ray Tracer",
+   "featured": true,
+   "genre": "Engine",
+   "date": "2019-01-01",
+   "role": "Lead",
+   "team": "solo",
+   "platform": "PC",
+   "engine": "Unity",
+   "description": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!"
+}
 ]
