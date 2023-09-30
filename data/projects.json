@@ -2,56 +2,23 @@
  {
     "title": "LeggyPeggy",
     "featured": true,
-    "genre": "New York",
+    "genre": "Game",
     "date": "2019-01-01",
     "role": "Lead",
     "team": "solo",
     "platform": "PC",
     "engine": "Unity",
-    "description": "A 2D platformer where you play as a peg-legged pirate. You must use your peg leg to traverse the level and defeat enemies."
+    "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."
  },
  {
-    "title": "LeggyPeggy",
+    "title": "Diffuseum",
     "featured": true,
-    "genre": "New York",
+    "genre": "Game",
     "date": "2019-01-01",
     "role": "Lead",
     "team": "solo",
     "platform": "PC",
     "engine": "Unity",
-    "description": "A 2D platformer where you play as a peg-legged pirate. You must use your peg leg to traverse the level and defeat enemies."
- },
- {
-    "title": "LeggyPeggy",
-    "featured": true,
-    "genre": "New York",
-    "date": "2019-01-01",
-    "role": "Lead",
-    "team": "solo",
-    "platform": "PC",
-    "engine": "Unity",
-    "description": "A 2D platformer where you play as a peg-legged pirate. You must use your peg leg to traverse the level and defeat enemies."
- },
- {
-    "title": "LeggyPeggy",
-    "featured": true,
-    "genre": "New York",
-    "date": "2019-01-01",
-    "role": "Lead",
-    "team": "solo",
-    "platform": "PC",
-    "engine": "Unity",
-    "description": "A 2D platformer where you play as a peg-legged pirate. You must use your peg leg to traverse the level and defeat enemies."
- },
- {
-    "title": "LeggyPeggy",
-    "featured": true,
-    "genre": "New York",
-    "date": "2019-01-01",
-    "role": "Lead",
-    "team": "solo",
-    "platform": "PC",
-    "engine": "Unity",
-    "description": "A 2D platformer where you play as a peg-legged pirate. You must use your peg leg to traverse the level and defeat enemies."
+    "description": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!"
  }
 ]
