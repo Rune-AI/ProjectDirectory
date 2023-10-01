@@ -8,7 +8,17 @@
     "team": "solo",
     "platform": "PC",
     "engine": "Unity",
-    "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."
+    "description": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+    "cardSrc": "https://img.itch.zone/aW1hZ2UvMTkzNzMzMS8xMjMyNzExMS5wbmc=/original/lgVUa0.png",
+    "links": [
+      "https://rune-ai.itch.io/leggypeggy"
+    ],
+    "videos": [
+      "https://www.youtube.com/watch?v=C1ljxmEaHng"
+    ],
+    "images": [
+      "https://img.itch.zone/aW1hZ2UvMTkzNzMzMS8xMjMyNzExMS5wbmc=/original/lgVUa0.png"
+    ]
  },
  {
     "title": "Diffuseum",
@@ -30,7 +40,8 @@
    "team": "solo",
    "platform": "PC",
    "engine": "Unity",
-   "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."
+   "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
+   "cardSrc": "https://www.youtube.com/watch?v=C1ljxmEaHng"
 },
 {
    "title": "Ray Tracer",
