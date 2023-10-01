@@ -8,17 +8,19 @@
     "team": "solo",
     "platform": "PC",
     "engine": "Unity",
-    "description": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+    "cardDesc": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
     "cardSrc": "https://img.itch.zone/aW1hZ2UvMTkzNzMzMS8xMjMyNzExMS5wbmc=/original/lgVUa0.png",
     "links": [
-      "https://rune-ai.itch.io/leggypeggy"
+      "https://rune-ai.itch.io/leggypeggy",
+      "webdesign is my passion"
     ],
     "videos": [
       "https://www.youtube.com/watch?v=C1ljxmEaHng"
     ],
     "images": [
       "https://img.itch.zone/aW1hZ2UvMTkzNzMzMS8xMjMyNzExMS5wbmc=/original/lgVUa0.png"
-    ]
+    ],
+    "description": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
  },
  {
     "title": "Diffuseum",
