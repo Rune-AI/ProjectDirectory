@@ -20,7 +20,10 @@
     "images": [
       "https://img.itch.zone/aW1hZ2UvMTkzNzMzMS8xMjMyNzExMS5wbmc=/original/lgVUa0.png"
     ],
-    "description": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+    "description": ["LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+      "Together, you must use your unique strengths and abilities to overcome challenging parkour obstacles and defeat enemies. With fast-paced gameplay, exciting challenges, and an engaging story, Leggy Peggy is a game that requires communication and cooperation to conquer the track.",
+      "Are you ready to join forces with Leggy and Peggy?"
+   ]
  },
  {
     "title": "Diffuseum",
