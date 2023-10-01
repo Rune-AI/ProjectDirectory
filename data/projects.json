@@ -2,17 +2,16 @@
  {
     "title": "LeggyPeggy",
     "featured": true,
-    "genre": "Game",
+    "genre": "Games",
     "date": "2023",
-    "role": "Lead",
+    "role": "Developer",
     "team": "solo",
-    "platform": "PC",
+    "platform": "Windows",
     "engine": "Unity",
     "cardDesc": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
     "cardSrc": "https://img.itch.zone/aW1nLzEyMzE2MDA5LnBuZw==/315x250%23c/7lcmAe.png",
     "links": [
-      "https://rune-ai.itch.io/leggypeggy",
-      "webdesign is my passion"
+      "https://rune-ai.itch.io/leggypeggy"
     ],
     "videos": [
       "https://www.youtube.com/watch?v=C1ljxmEaHng"
@@ -30,37 +29,164 @@
    ]
  },
  {
-    "title": "Diffuseum",
-    "featured": false,
-    "genre": "Game",
-    "date": "2022",
-    "role": "Lead",
-    "team": "solo",
-    "platform": "PC",
-    "engine": "Unity",
-    "description": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!"
- },
- {
+   "title": "Diffuseum",
+   "featured": false,
+   "genre": "Games",
+   "date": "2022",
+   "role": "Lead Developer",
+   "team": "Team of 6",
+   "platform": "Browser",
+   "engine": "Unity",
+   "cardDesc": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!",
+   "cardSrc": "",
+   "links": [
+     ""
+   ],
+   "videos": [
+     ""
+   ],
+   "images": [
+     ""
+   ],
+   "description": ["LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+     "Together, you must use your unique strengths and abilities to overcome challenging parkour obstacles and defeat enemies. With fast-paced gameplay, exciting challenges, and an engaging story, Leggy Peggy is a game that requires communication and cooperation to conquer the track.",
+     "Are you ready to join forces with Leggy and Peggy?"
+  ]
+},
+{
    "title": "Soggy Story",
    "featured": true,
-   "genre": "Game",
-   "date": "2019-01-01",
-   "role": "Lead",
-   "team": "solo",
-   "platform": "PC",
+   "genre": "Games",
+   "date": "2023",
+   "role": "Lead Developer",
+   "team": "Team of 6",
+   "platform": "Browser",
    "engine": "Unity",
-   "description": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
-   "cardSrc": "https://www.youtube.com/watch?v=C1ljxmEaHng"
+   "cardDesc": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": ["Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."]
 },
 {
    "title": "Ray Tracer",
    "featured": true,
    "genre": "Engine",
-   "date": "2019-01-01",
-   "role": "Lead",
-   "team": "solo",
-   "platform": "PC",
+   "date": "2022",
+   "role": "Solo Developer",
+   "platform": "Windows",
+   "engine": "pure c++",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Rasterizer",
+   "featured": true,
+   "genre": "Engine",
+   "date": "2022",
+   "role": "Solo Developer",
+   "platform": "Windows",
+   "engine": "pure c++",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Bearbones Engine",
+   "featured": true,
+   "genre": "Engine",
+   "date": "2023",
+   "role": "Solo Developer",
+   "platform": "Windows",
+   "engine": "pure c++",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Research Paper",
+   "featured": false,
+   "genre": "Research",
+   "date": "2020",
+   "role": "Solo Developer",
+   "platform": "roblox",
+   "engine": "LUA",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Research recreation",
+   "featured": false,
+   "genre": "Research",
+   "date": "2022",
+   "role": "Solo Developer",
    "engine": "Unity",
-   "description": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!"
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Gameplay AI",
+   "featured": false,
+   "genre": "Gameplay",
+   "date": "2022",
+   "role": "Solo Developer",
+   "engine": "In-House Engine",
+   "cardDesc": "",
+   "cardSrc": ""
 }
 ]
