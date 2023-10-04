@@ -127,7 +127,7 @@
    "featured": true,
    "genre": "Engine",
    "date": "2022",
-   "role": "Solo Developer",
+   "role": "Solo",
    "platform": "Windows",
    "engine": "pure c++",
    "cardDesc": "",
@@ -139,7 +139,7 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/overview.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/Live.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/noTexture.png",
-      "https://github.com/Rune-AI/ProjectDirectory/blob/main/Images/Rasterizer/phong.png"
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/phong.png"
    ],
    "description": [""]
 },
@@ -148,19 +148,18 @@
    "featured": false,
    "genre": "Engine",
    "date": "2022",
-   "role": "Solo Developer",
+   "role": "Solo",
    "platform": "Windows",
    "engine": "pure c++",
    "cardDesc": "",
-   "cardSrc": "",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_EXTRA.png",
    "links": [
       "https://github.com/Rune-AI/Tracer-of-Rays"
    ],
-   "videos": [
-      ""
-   ],
    "images": [
-      ""
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_EXTRA.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_REFERENCE.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_BUNNY.png"
    ],
    "description": [""]
 },
