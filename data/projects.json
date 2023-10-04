@@ -162,6 +162,22 @@
    "description": [""]
 },
 {
+   "title": "2D Engine with Bomberman",
+   "featured": false,
+   "genre": "Engine",
+   "date": "2023",
+   "role": "Solo Developer",
+   "platform": "Windows",
+   "engine": "C++",
+   "cardDesc": "Custom 2D engine from scratch",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png",
+   "images": [
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
+   ],
+   "description": ["I made my own 2D engine, mainly to familiarize myself with programming patterns common in video game development.",
+      "features:\n- Entity Component System\n- Game Loop\n- Input processing\n- Sound Service\n- SDL rendering"]
+},
+{
    "title": "Rasterizer",
    "featured": true,
    "genre": "Engine",
@@ -211,21 +227,5 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map3.png"
    ],
    "description": ["This game was made in a C++ framework provided by my school, it only has basic functionality like a game loop, functions to draw on screen and basic math functions."]
-},
-{
-   "title": "2D Engine with Bomberman",
-   "featured": false,
-   "genre": "Engine",
-   "date": "2023",
-   "role": "Solo Developer",
-   "platform": "Windows",
-   "engine": "C++",
-   "cardDesc": "",
-   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png",
-   "images": [
-      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
-   ],
-   "description": ["I made my own 2D engine, mainly to familiarize myself with programming patterns common in video game development.",
-      "features:\n- Entity Component System\n- Game Loop\n- Input processing\n- Sound Service\n- SDL rendering"]
 }
 ]
