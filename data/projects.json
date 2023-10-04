@@ -69,7 +69,7 @@
    "team": "1 Game Dev, 1 Artist, 3 ML engineers",
    "platform": "Browser, Twitter",
    "engine": "Unity",
-   "cardDesc": "Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
+   "cardDesc": "Made for AI in Games Summer School 2023 Game Jam. A conversational main character with a real twitter account, tweeting about your gameplay. Respond and you will influence the game.",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/CoffeeInJulyLogo.jpg",
    "links": [
      "https://github.com/Rune-AI/CoffeeInJuly",
@@ -85,8 +85,10 @@
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/sleep3.png",
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/tweet.png"
    ],
-   "description": ["Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
-     "Made for AI in Games Summer School 2023 Game Jam."
+   "description": ["Made for AI in Games Summer School 2023 Game Jam.",
+   "The goal of our project was to give the player character the ability to interact with the player. Every in-game day the player plays as the main character on the way to a coffee shop. The main character will tweet about their experience on real twitter. The main character will dream about your responses on twitter and it will influence the comming day, their mood, world and music will change depending on your responses.",
+   "Official description: Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
+     ""
   ]
 },
  {
