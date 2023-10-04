@@ -9,7 +9,7 @@
     "team": "4 artists, 2 programmers",
     "platform": "Windows",
     "engine": "Unity",
-    "cardDesc": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
+    "cardDesc": "A exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
     "cardSrc": "https://img.itch.zone/aW1nLzEyMzE2MDA5LnBuZw==/315x250%23c/7lcmAe.png",
     "links": [
       "https://rune-ai.itch.io/leggypeggy"
@@ -123,6 +123,47 @@
   ]
 },
 {
+   "title": "Research Paper",
+   "featured": false,
+   "genre": "Research",
+   "date": "2020",
+   "role": "Solo Developer",
+   "platform": "roblox",
+   "engine": "LUA",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
+   "title": "Research recreation",
+   "featured": false,
+   "genre": "Research",
+   "date": "2022",
+   "role": "Solo Developer",
+   "engine": "Unity",
+   "cardDesc": "",
+   "cardSrc": "",
+   "links": [
+      ""
+   ],
+   "videos": [
+      ""
+   ],
+   "images": [
+      ""
+   ],
+   "description": [""]
+},
+{
    "title": "Rasterizer",
    "featured": true,
    "genre": "Engine",
@@ -186,47 +227,6 @@
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png",
    "images": [
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
-   ],
-   "description": [""]
-},
-{
-   "title": "Research Paper",
-   "featured": false,
-   "genre": "Research",
-   "date": "2020",
-   "role": "Solo Developer",
-   "platform": "roblox",
-   "engine": "LUA",
-   "cardDesc": "",
-   "cardSrc": "",
-   "links": [
-      ""
-   ],
-   "videos": [
-      ""
-   ],
-   "images": [
-      ""
-   ],
-   "description": [""]
-},
-{
-   "title": "Research recreation",
-   "featured": false,
-   "genre": "Research",
-   "date": "2022",
-   "role": "Solo Developer",
-   "engine": "Unity",
-   "cardDesc": "",
-   "cardSrc": "",
-   "links": [
-      ""
-   ],
-   "videos": [
-      ""
-   ],
-   "images": [
-      ""
    ],
    "description": [""]
 }
