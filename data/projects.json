@@ -164,6 +164,23 @@
    "description": [""]
 },
 {
+   "title": "Spelunky Remake",
+   "featured": true,
+   "genre": "Game",
+   "date": "2021",
+   "platform": "Windows",
+   "engine": "pure c++",
+   "cardDesc": "",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/InGame.png",
+   "images": [
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map2.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map3.png"
+   ],
+   "description": ["This game was made in a C++ framework provided by my school, it only has basic functionality like a game loop, functions to draw on screen and basic math functions.",
+   ""]
+},
+{
    "title": "2D Engine with Bomberman",
    "featured": true,
    "genre": "Engine",
@@ -228,10 +245,10 @@
 {
    "title": "Gameplay AI",
    "featured": false,
-   "genre": "Gameplay",
+   "genre": "Gameplay AI",
    "date": "2022",
    "role": "Solo Developer",
-   "engine": "In-House Engine",
+   "engine": "In-House DAE Engine",
    "cardDesc": "",
    "cardSrc": ""
 }
