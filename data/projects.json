@@ -8,7 +8,7 @@
     "role": "Developer",
     "team": "4 artists, 2 programmers",
     "platform": "Windows",
-    "engine": "Unity",
+    "engine": "Unreal C++",
     "cardDesc": "A exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
     "cardSrc": "https://img.itch.zone/aW1nLzEyMzE2MDA5LnBuZw==/315x250%23c/7lcmAe.png",
     "links": [
@@ -175,7 +175,7 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
    ],
    "description": ["I made my own 2D engine, mainly to familiarize myself with programming patterns common in video game development.",
-      "features:\\n- Entity Component System\\n- Game Loop\\n- Input processing\\n- Sound Service\\n- SDL rendering"]
+      "features:","- Entity Component System","- Game Loop","- Input processing","- Sound Service","- SDL rendering"]
 },
 {
    "title": "Rasterizer",
@@ -210,8 +210,7 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_EXTRA.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_REFERENCE.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_BUNNY.png"
-   ],
-   "description": [""]
+   ]
 },
 {
    "title": "Spelunky Remake",
@@ -219,7 +218,7 @@
    "genre": "Engine",
    "date": "2021",
    "engine": "C++",
-   "cardDesc": "with procedural level generation all in c++ ",
+   "cardDesc": "with procedural level generation all in C++ ",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/InGame.png",
    "images": [
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map.png",
