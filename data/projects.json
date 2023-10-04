@@ -6,7 +6,7 @@
     "genre": "Games",
     "date": "2023",
     "role": "Developer",
-    "team": "Team of 6",
+    "team": "4 artists, 2 programmers",
     "platform": "Windows",
     "engine": "Unity",
     "cardDesc": "LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
@@ -35,7 +35,7 @@
    "genre": "Games",
    "date": "2023",
    "role": "Developer",
-   "team": "Team of 6",
+   "team": "4 artists, 2 programmers",
    "platform": "Browser",
    "engine": "Unity",
    "cardDesc": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
@@ -66,7 +66,7 @@
    "genre": "Games",
    "date": "2023",
    "role": "Lead Developer",
-   "team": "Team of 5",
+   "team": "1 Game Dev, 1 Artist, 3 ML engineers",
    "platform": "Browser, Twitter",
    "engine": "Unity",
    "cardDesc": "Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
@@ -95,7 +95,7 @@
    "genre": "Games",
    "date": "2022",
    "role": "Lead Developer",
-   "team": "Team of 6",
+   "team": "3 Game Devs, 2 ML Engineers, 1 Artist",
    "platform": "Browser",
    "engine": "Unity",
    "cardDesc": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!",
@@ -127,9 +127,8 @@
    "featured": true,
    "genre": "Engine",
    "date": "2022",
-   "role": "Solo",
    "engine": "C++",
-   "cardDesc": "",
+   "cardDesc": "Made in C++",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/render.png",
    "links": [
       "https://github.com/Rune-AI/Rasterizer-of-Vectices"
@@ -147,9 +146,7 @@
    "featured": false,
    "genre": "Engine",
    "date": "2022",
-   "role": "Solo",
-   "platform": "Windows",
-   "engine": "pure c++",
+   "engine": "C++",
    "cardDesc": "Made in C++",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Raytracer/Raytracer_EXTRA.png",
    "links": [
@@ -167,7 +164,7 @@
    "featured": true,
    "genre": "Engine",
    "date": "2021",
-   "engine": "c++",
+   "engine": "C++",
    "cardDesc": "with procedural level generation all in c++ ",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/InGame.png",
    "images": [
@@ -186,15 +183,9 @@
    "platform": "Windows",
    "engine": "pure c++",
    "cardDesc": "",
-   "cardSrc": "",
-   "links": [
-      ""
-   ],
-   "videos": [
-      ""
-   ],
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png",
    "images": [
-      ""
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
    ],
    "description": [""]
 },
