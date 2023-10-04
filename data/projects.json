@@ -30,6 +30,40 @@
    ]
  },
  {
+   "title": "Coffee in July",
+   "featured": true,
+   "genre": "Games",
+   "date": "2023",
+   "role": "Lead Developer",
+   "team": "Team of 5",
+   "platform": "Browser, Twitter",
+   "engine": "Unity",
+   "cardDesc": "Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Diffuseum.jpg",
+   "links": [
+     "https://github.com/Rune-AI/CoffeeInJuly",
+     "https://twitter.com/JamChan_coffee"
+   ],
+   "videos": [
+     "https://www.youtube.com/embed/dX2RPorHm2c?si=tzKseRZOQjO8diDV"
+   ],
+   "images": [
+     "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Diffuseum.jpg",
+     "https://raw.githubusercontent.com/Rune-AI/ZBI/main/ZBI/Assets/Resources/Images/EndScene.png"
+   ],
+   "description": ["Welcome to the Diffusion Gallery!",
+     "This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs! Help the gallerist figure out who has inspired the art and put correct sign next to the painting.",
+     "Game flow:",
+      "",
+     "Each player enters a question that that will be asked in the game",
+     "The first question from the step above is posed to all players",
+     "The players see a gallery with the images generated from each player",
+     "The players guess who 'painted' each painting by assigning name tags",
+     "The guesses and the correct answer is provided for one image at the time",
+     "Made for AI in Games Summer School 2023 Game Jam."
+  ]
+},
+ {
    "title": "Diffuseum",
    "featured": false,
    "genre": "Games",
@@ -58,7 +92,8 @@
      "The first question from the step above is posed to all players",
      "The players see a gallery with the images generated from each player",
      "The players guess who 'painted' each painting by assigning name tags",
-     "The guesses and the correct answer is provided for one image at the time"
+     "The guesses and the correct answer is provided for one image at the time",
+     "Made for AI in Games Summer School 2022 Game Jam."
   ]
 },
 {
