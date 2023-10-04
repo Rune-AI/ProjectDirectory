@@ -200,7 +200,7 @@
    "genre": "Engine",
    "date": "2021",
    "engine": "C++",
-   "cardDesc": "with procedural level generation all in C++ ",
+   "cardDesc": "with procedural level generation",
    "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/InGame.png",
    "images": [
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Spelunky/Map.png",
