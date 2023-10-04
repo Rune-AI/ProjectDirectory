@@ -93,7 +93,7 @@
 },
  {
    "title": "Diffuseum",
-   "featured": false,
+   "featured": true,
    "genre": "Games",
    "date": "2022",
    "role": "Lead Developer",
