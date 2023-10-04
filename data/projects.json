@@ -129,39 +129,19 @@
    "featured": false,
    "genre": "Research",
    "date": "2020",
-   "platform": "roblox",
-   "engine": "LUA",
-   "cardDesc": "",
-   "cardSrc": "",
-   "links": [
-      ""
-   ],
-   "videos": [
-      ""
-   ],
-   "images": [
-      ""
-   ],
-   "description": [""]
+   "platform": "Roblox",
+   "engine": "Roblox - Luau",
+   "cardDesc": "To be Added, come back tomorrow, I apologise",
+   "cardSrc": ""
 },
 {
-   "title": "Research recreation",
+   "title": "Research Recreation",
    "featured": false,
    "genre": "Research",
    "date": "2022",
    "engine": "Unity",
-   "cardDesc": "",
-   "cardSrc": "",
-   "links": [
-      ""
-   ],
-   "videos": [
-      ""
-   ],
-   "images": [
-      ""
-   ],
-   "description": [""]
+   "cardDesc": "To be Added, come back tomorrow, I apologise",
+   "cardSrc": ""
 },
 {
    "title": "2D Engine with Bomberman",
