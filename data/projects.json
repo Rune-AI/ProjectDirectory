@@ -39,19 +39,26 @@
    "platform": "Browser",
    "engine": "Unity",
    "cardDesc": "Made for AI in Games Summer School 2022 Game Jam. This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs!",
-   "cardSrc": "",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Diffuseum.jpg",
    "links": [
-     ""
+     "https://github.com/Rune-AI/ZBI/tree/main"
    ],
    "videos": [
-     ""
+     "https://youtu.be/dX2RPorHm2c?si=UvfU0JaFULoHiNQA"
    ],
    "images": [
-     ""
+     "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Diffuseum.jpg",
+     "https://raw.githubusercontent.com/Rune-AI/ZBI/main/ZBI/Assets/Resources/Images/EndScene.png"
    ],
-   "description": ["LeggyPeggy is an exhilarating and cooperative game where two players take on the roles of a highly advanced robot and a plucky little girl armed with a powerful weapon.",
-     "Together, you must use your unique strengths and abilities to overcome challenging parkour obstacles and defeat enemies. With fast-paced gameplay, exciting challenges, and an engaging story, Leggy Peggy is a game that requires communication and cooperation to conquer the track.",
-     "Are you ready to join forces with Leggy and Peggy?"
+   "description": ["Welcome to the Diffusion Gallery!",
+     "This is a special gallery where the guests inspire the art. There is just one problem, the gallerist forgot to put up the signs! Help the gallerist figure out who has inspired the art and put correct sign next to the painting.",
+     "Game flow:",
+      "",
+     "Each player enters a question that that will be asked in the game",
+     "The first question from the step above is posed to all players",
+     "The players see a gallery with the images generated from each player",
+     "The players guess who 'painted' each painting by assigning name tags",
+     "The guesses and the correct answer is provided for one image at the time"
   ]
 },
 {
@@ -59,22 +66,31 @@
    "featured": true,
    "genre": "Games",
    "date": "2023",
-   "role": "Lead Developer",
+   "role": "Developer",
    "team": "Team of 6",
    "platform": "Browser",
    "engine": "Unity",
    "cardDesc": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
-   "cardSrc": "",
+   "cardSrc": "https://img.itch.zone/aW1nLzExMzM4NDc1LnBuZw==/315x250%23c/OEL23a.png",
    "links": [
-      ""
+      "https://sinasoddlyspace.itch.io/soggy-story"
    ],
    "videos": [
-      ""
+      "https://youtu.be/3Q06sThbEzY?si=wZHoh0N1YwuK3v1g"
    ],
    "images": [
-      ""
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1NS5wbmc=/original/KMlj4%2F.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg2MC5wbmc=/original/uiHbE8.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OS5wbmc=/original/GWXvpT.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OC5wbmc=/original/yCemoJ.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ny5wbmc=/original/de7tBU.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ni5wbmc=/original/NsniK%2B.png"
    ],
-   "description": ["Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains."]
+   "description": ["What do you do if you have to send a letter down a river? Make a paperboat out of it!",
+   "You are little Oggy. A bug-spirit that wants to help with delivering a very important letter down the river. But there is no rudder, so you have to walk around on the boat to stear it through distributing your weight.",
+   "But be careful, because there are many obstacles floating around and your boat is very fragile and may sink if it gets damaged too much. Luckily there are handy stickers floating around the river that you can use to patch up your boat.",
+   "Help him deliver the letter c:",
+   "This game was made in 2.5 days as a contribution to the DAE Unwrap Jam 2023. The theme was FRAGILE."]
 },
 {
    "title": "Ray Tracer",
