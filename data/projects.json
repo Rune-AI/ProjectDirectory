@@ -179,8 +179,7 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/Live.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/noTexture.png",
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/phong.png"
-   ],
-   "description": [""]
+   ]
 },
 {
    "title": "Ray Tracer",
