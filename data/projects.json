@@ -131,18 +131,21 @@
    "platform": "Windows",
    "engine": "pure c++",
    "cardDesc": "",
-   "cardSrc": "",
+   "cardSrc": "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/render.png",
    "links": [
       "https://github.com/Rune-AI/Rasterizer-of-Vectices"
    ],
    "images": [
-      ""
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/overview.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/Live.png",
+      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/Rasterizer/noTexture.png",
+      "https://github.com/Rune-AI/ProjectDirectory/blob/main/Images/Rasterizer/phong.png"
    ],
    "description": [""]
 },
 {
    "title": "Ray Tracer",
-   "featured": true,
+   "featured": false,
    "genre": "Engine",
    "date": "2022",
    "role": "Solo Developer",
