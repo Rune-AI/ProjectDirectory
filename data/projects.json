@@ -175,7 +175,7 @@
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/2D%20Engine/Bomberman.png"
    ],
    "description": ["I made my own 2D engine, mainly to familiarize myself with programming patterns common in video game development.",
-      "features:\n- Entity Component System\n- Game Loop\n- Input processing\n- Sound Service\n- SDL rendering"]
+      "features:\\n- Entity Component System\\n- Game Loop\\n- Input processing\\n- Sound Service\\n- SDL rendering"]
 },
 {
    "title": "Rasterizer",
