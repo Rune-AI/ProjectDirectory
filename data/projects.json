@@ -30,6 +30,37 @@
    ]
  },
  {
+   "title": "Soggy Story",
+   "featured": true,
+   "genre": "Games",
+   "date": "2023",
+   "role": "Developer",
+   "team": "Team of 6",
+   "platform": "Browser",
+   "engine": "Unity",
+   "cardDesc": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
+   "cardSrc": "https://img.itch.zone/aW1nLzExMzM4NDc1LnBuZw==/315x250%23c/OEL23a.png",
+   "links": [
+      "https://sinasoddlyspace.itch.io/soggy-story"
+   ],
+   "videos": [
+      "https://www.youtube.com/embed/3Q06sThbEzY?si=f44UBI06RC9Jjxii"
+   ],
+   "images": [
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1NS5wbmc=/original/KMlj4%2F.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg2MC5wbmc=/original/uiHbE8.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OS5wbmc=/original/GWXvpT.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OC5wbmc=/original/yCemoJ.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ny5wbmc=/original/de7tBU.png",
+      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ni5wbmc=/original/NsniK%2B.png"
+   ],
+   "description": ["What do you do if you have to send a letter down a river? Make a paperboat out of it!",
+   "You are little Oggy. A bug-spirit that wants to help with delivering a very important letter down the river. But there is no rudder, so you have to walk around on the boat to stear it through distributing your weight.",
+   "But be careful, because there are many obstacles floating around and your boat is very fragile and may sink if it gets damaged too much. Luckily there are handy stickers floating around the river that you can use to patch up your boat.",
+   "Help him deliver the letter c:",
+   "This game was made in 2.5 days as a contribution to the DAE Unwrap Jam 2023. The theme was FRAGILE."]
+},
+ {
    "title": "Coffee in July",
    "featured": true,
    "genre": "Games",
@@ -93,37 +124,6 @@
      "The guesses and the correct answer is provided for one image at the time",
      "Made for AI in Games Summer School 2022 Game Jam."
   ]
-},
-{
-   "title": "Soggy Story",
-   "featured": true,
-   "genre": "Games",
-   "date": "2023",
-   "role": "Developer",
-   "team": "Team of 6",
-   "platform": "Browser",
-   "engine": "Unity",
-   "cardDesc": "Made for Unwrap Game Jam 2023. Steer your little fragile paperboat to safety, to deliver the letter, that it contains.",
-   "cardSrc": "https://img.itch.zone/aW1nLzExMzM4NDc1LnBuZw==/315x250%23c/OEL23a.png",
-   "links": [
-      "https://sinasoddlyspace.itch.io/soggy-story"
-   ],
-   "videos": [
-      "https://www.youtube.com/embed/3Q06sThbEzY?si=f44UBI06RC9Jjxii"
-   ],
-   "images": [
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1NS5wbmc=/original/KMlj4%2F.png",
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg2MC5wbmc=/original/uiHbE8.png",
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OS5wbmc=/original/GWXvpT.png",
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1OC5wbmc=/original/yCemoJ.png",
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ny5wbmc=/original/de7tBU.png",
-      "https://img.itch.zone/aW1hZ2UvMTkyODYyNS8xMzI5NDg1Ni5wbmc=/original/NsniK%2B.png"
-   ],
-   "description": ["What do you do if you have to send a letter down a river? Make a paperboat out of it!",
-   "You are little Oggy. A bug-spirit that wants to help with delivering a very important letter down the river. But there is no rudder, so you have to walk around on the boat to stear it through distributing your weight.",
-   "But be careful, because there are many obstacles floating around and your boat is very fragile and may sink if it gets damaged too much. Luckily there are handy stickers floating around the river that you can use to patch up your boat.",
-   "Help him deliver the letter c:",
-   "This game was made in 2.5 days as a contribution to the DAE Unwrap Jam 2023. The theme was FRAGILE."]
 },
 {
    "title": "Ray Tracer",
