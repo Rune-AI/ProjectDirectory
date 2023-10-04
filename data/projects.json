@@ -75,9 +75,6 @@
      "https://github.com/Rune-AI/CoffeeInJuly",
      "https://twitter.com/JamChan_coffee"
    ],
-   "videos": [
-     "https://www.youtube.com/embed/dX2RPorHm2c?si=tzKseRZOQjO8diDV"
-   ],
    "images": [
       "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/julyTweet.png",
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/JulyCoffeeTwitter.png",
@@ -86,7 +83,7 @@
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/sleep1.png",
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/sleep2.png",
      "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/sleep3.png",
-     "https://github.com/Rune-AI/ProjectDirectory/blob/main/Images/CoffeeInJuly/tweet.png"
+     "https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/Images/CoffeeInJuly/tweet.png"
    ],
    "description": ["Getting up. Getting coffee. Going for work. Going for tweet. What does she see on the way to coffee? All starts again. (Not) from fresh. If you want to reply her tweet, don't remember to do that before she falls asleep!",
      "Made for AI in Games Summer School 2023 Game Jam."
