@@ -126,8 +126,11 @@
    "date": "2020",
    "platform": "Roblox",
    "engine": "Roblox - Luau",
-   "cardDesc": "To be Added, come back tomorrow, I apologise",
-   "cardSrc": ""
+   "cardDesc": "Deploying Parallel and Distributed Deep Learning methods for Luau",
+   "cardSrc": "",
+   "links":["https://raw.githubusercontent.com/Rune-AI/ProjectDirectory/main/data/bachproef-tin.pdf"],
+   "description": ["Video games already benefit from deep learning applications for their animations, textures and dynamic worlds. To support this new technology on a large scale, a Distributed Deep Learning System is needed. This ensures efficient scheduling of data flow and computations. In this research, we explore different methods to perform this efficiently with Luau and within Roblox's environment. We find strategies that allow us to achieve large accelerations and discover how these methods perform at large scales."
+  ]
 },
 {
    "title": "Research Recreation",
@@ -156,7 +159,7 @@
 },
 {
    "title": "Rasterizer",
-   "featured": true,
+   "featured": false,
    "genre": "Engine",
    "date": "2022",
    "engine": "C++",
