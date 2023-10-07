@@ -121,7 +121,7 @@
 },
 {
    "title": "Distributed Deep Learning",
-   "featured": false,
+   "featured": true,
    "genre": "Research",
    "date": "2020",
    "platform": "Roblox",
@@ -134,7 +134,7 @@
 },
 {
    "title": "Navigation Agent",
-   "featured": false,
+   "featured": true,
    "genre": "Research",
    "date": "2022",
    "engine": "Unity",
@@ -196,7 +196,7 @@
 },
 {
    "title": "Spelunky Remake",
-   "featured": true,
+   "featured": false,
    "genre": "Engine",
    "date": "2021",
    "engine": "C++",
