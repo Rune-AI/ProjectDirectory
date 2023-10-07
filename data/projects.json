@@ -120,7 +120,7 @@
   ]
 },
 {
-   "title": "Research Paper",
+   "title": "Distributed Deep Learning",
    "featured": false,
    "genre": "Research",
    "date": "2020",
@@ -133,13 +133,15 @@
   ]
 },
 {
-   "title": "Research Recreation",
+   "title": "Navigation Agent",
    "featured": false,
    "genre": "Research",
    "date": "2022",
    "engine": "Unity",
-   "cardDesc": "To be Added, come back tomorrow, I apologise",
-   "cardSrc": ""
+   "cardDesc": "Deep Reinforcement Learning for Navigation",
+   "cardSrc": "https://user-images.githubusercontent.com/43761327/209436717-2118ade9-7e2c-4311-a912-6fc8f5837004.png",
+   "links":["https://github.com/Rune-AI/Navigation-Agent"],
+   "description":["This research project will be about the genetic algorithm, in this project I will attempt to recreate the Deep Reinforcement Learning for Navigation in AAA Video Games by Ubisoft originally made for the game Hyper Scape. The end goal for this AI is to navigate complex terrains with custom movement and environmental movement like jump pads."]
 },
 {
    "title": "2D Engine with Bomberman",
